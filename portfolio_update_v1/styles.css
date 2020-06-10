@@ -206,6 +206,6 @@ a.social:hover {
     margin: 40px auto;
   }
 .jakarta {
-  width: 400px;
+  max-width: 100%;
 }
 }
